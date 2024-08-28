@@ -1,4 +1,4 @@
-> Code for this document is at `02_first_llm_project/first_project.py`
+> Code for this document is at [`02_first_llm_project/first_project.py`](02_first_llm_project/first_project.py)
 
 
 
