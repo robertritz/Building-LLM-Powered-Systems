@@ -15,23 +15,39 @@ The ideal student for the course is someone with Python experience who is intere
 
 ## Topic Outline
 
-| Week #  | Topic                                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------------------------ |
-| Week 01 | [1] [[Introduction to Large Language Models]]<br>[2] Your First LLM Project<br>[3] Counting Tokens and Rate Limits |
-| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                              |
-| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                |
-| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                     |
-| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                           |
-| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                    |
-| Week 07 | [13] Building a Streamlit Chat App                                                                                 |
-| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                 |
-| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                    |
-| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                     |
-| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                   |
-| Week 12 | [21] Project 3: Build an Agent System                                                                              |
-| Week 13 | [22] Example Project: Research Assistant                                                                           |
-| Week 14 | [23] Example Project: Identifying Bias in News                                                                     |
-| Week 15 | Final Project Presentations (in person course only)                                                                |
+| Week #  | Topic                                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Week 01 | [1] [[Introduction to Large Language Models]]<br>[2] [[Your First LLM Project]]<br>[3] Counting Tokens and Rate Limits |
+| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                                  |
+| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                    |
+| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                         |
+| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                               |
+| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                        |
+| Week 07 | [13] Building a Streamlit Chat App                                                                                     |
+| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                     |
+| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                        |
+| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                         |
+| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                       |
+| Week 12 | [21] Project 3: Build an Agent System                                                                                  |
+| Week 13 | [22] Example Project: Research Assistant                                                                               |
+| Week 14 | [23] Example Project: Identifying Bias in News                                                                         |
+| Week 15 | Final Project Presentations (in person course only)                                                                    |
+
+## Course Grading
+
+| **Grade Item**            | **Percentage** |
+| ------------------------- | -------------- |
+| Attendance                | 10%            |
+| Weekly Coding Assignments | 30%            |
+| Project 1                 | 10%            |
+| Project 2                 | 15%            |
+| Project 3                 | 15%            |
+| Final Project             | 20%            |
+### Attendance Policy
+I allow two free absences throughout the semester that will not count against your grade. No doctors note or other documentation is ever required when you are absent. After the free absences are used every absence will count against your attendance grade.
+
+### Coding Assignments
+
 
 ## Coding Environment
 
@@ -49,7 +65,7 @@ It is strongly recommended that you create a Python environment for this course 
 You can choose any IDE or text editor you prefer, but I recommend the following:
 - [Visual Studio Code](https://code.visualstudio.com/): This is developed by Microsoft and is completely free. It also has excellent support for Jupyter notebooks via plugins.
 - [Cursor](https://www.cursor.com/): This is a fork of Visual Studio Code that has LLM assistance at its core. There is a free tier, pay for a subscription, or use your own API key for LLM providers.
-- Zed (my current IDE): Opinionated IDE with speed and style at it's core. It supports cloud LLMs and also local LLMs via Ollama.
+- [Zed](https://zed.dev) (my current IDE): Opinionated IDE with speed and style at it's core. It supports cloud LLMs and also local LLMs via Ollama.
 
 ## Course Format
 This course uses Markdown files (`.md`) and Python (`.py`) files. Why use these files over something like a Jupyter notebook? The short answer is that it's easier to develop LLM systems using executable `.py` files, and keeping two separate pieces of code (one in Jupyter and one in `.py` files) is inefficient and confusing. 
