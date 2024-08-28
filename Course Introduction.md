@@ -15,23 +15,23 @@ The ideal student for the course is someone with Python experience who is intere
 
 ## Topic Outline
 
-| Week #  | Topic                                                                                                                  |
-| ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Week 01 | [1] [[Introduction to Large Language Models]]<br>[2] [[Your First LLM Project]]<br>[3] Counting Tokens and Rate Limits |
-| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                                  |
-| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                    |
-| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                         |
-| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                               |
-| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                        |
-| Week 07 | [13] Building a Streamlit Chat App                                                                                     |
-| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                     |
-| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                        |
-| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                         |
-| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                       |
-| Week 12 | [21] Project 3: Build an Agent System                                                                                  |
-| Week 13 | [22] Example Project: Research Assistant                                                                               |
-| Week 14 | [23] Example Project: Identifying Bias in News                                                                         |
-| Week 15 | Final Project Presentations (in person course only)                                                                    |
+| Week #  | Topic                                                                                                                                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Week 01 | [1] [Introduction to Large Language Models](Introduction%20to%20Large%20Language%20Models.md)<br>[2] [Your First LLM Project](Your%20First%20LLM%20Project.md)<br>[3] Counting Tokens and Rate Limits |
+| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                                                                                                                 |
+| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                                                                                                   |
+| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                                                                                                        |
+| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                                                                                                              |
+| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                                                                                                       |
+| Week 07 | [13] Building a Streamlit Chat App                                                                                                                                                                    |
+| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                                                                                                    |
+| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                                                                                                       |
+| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                                                                                                        |
+| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                                                                                                      |
+| Week 12 | [21] Project 3: Build an Agent System                                                                                                                                                                 |
+| Week 13 | [22] Example Project: Research Assistant                                                                                                                                                              |
+| Week 14 | [23] Example Project: Identifying Bias in News                                                                                                                                                        |
+| Week 15 | Final Project Presentations (in person course only)                                                                                                                                                   |
 
 ## Course Grading
 
@@ -47,11 +47,16 @@ The ideal student for the course is someone with Python experience who is intere
 I allow two free absences throughout the semester that will not count against your grade. No doctors note or other documentation is ever required when you are absent. After the free absences are used every absence will count against your attendance grade.
 
 ### Coding Assignments
+Weekly coding assignments will build you step by step towards the projects, and you should be able to reuse significant parts of this code for your projects. All assignments must be turned in on Moodle.
 
+### Projects
+There are three projects for this course, each covering a different and very relevant subject in building LLM powered systems. All projects must be completely independently 
 
 ## Coding Environment
 
-This course will use Google's Gemini 1.5 Pro and Flash models, which offer a generous [free tier](https://ai.google.dev/pricing) via API. Other models can be used if you prefer, but no guidance will be given on how to integrate these models with the course code.
+This course will use Google's Gemini 1.5 Pro and Flash models, which offer a generous [free tier](https://ai.google.dev/pricing) via API. These also happen to be some of the most advanced models today according to the [LMSYS Chat Arena Leaderboard](https://lmarena.ai/?leaderboard).
+
+Other models can be used if you prefer, but no guidance will be given on how to integrate these models with the course code.
 
 To run the code in this course you will need the following packages. This package list may be amended or edited throughout the semester. Please note these packages have a significant number of dependencies that we will also be using including `numpy` and others.
 

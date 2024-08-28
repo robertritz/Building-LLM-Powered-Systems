@@ -1,4 +1,4 @@
-**Slides for this page:** [[Introduction to Large Language Models - Slides.pdf]]
+**Slides for this page:** [Introduction to Large Language Models - Slides](Introduction%20to%20Large%20Language%20Models%20-%20Slides.pdf)
 ## What is a large language model?
 A large language model (LLM) is a type of artificial intelligence (AI) that excels at understanding and generating human-like text. They are trained on massive datasets of text and code, enabling them to perform a wide range of linguistic tasks. 
 
@@ -93,7 +93,7 @@ One of the most significant challenges with LLMs is their lack of explainability
 
 - **March 2023**: OpenAI released *GPT-4*, a more advanced and versatile model than its predecessors, with improvements in understanding and generating text across various contexts[^5].
 
-**[[Your First LLM Project|Next Lecture: Your First LLM Project]]**
+**Next Section: [Your First LLM Project](Your%20First%20LLM%20Project.md)**
 
 
 [^1]: https://pile.eleuther.ai
