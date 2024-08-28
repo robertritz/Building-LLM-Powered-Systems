@@ -1,4 +1,4 @@
-
+# Building LLM Powered Systems
 Welcome to the “Building LLM Powered Systems” course! This course is designed to provide hands-on experience in creating robust systems powered by Large Language Models (LLMs). Throughout this course, you will learn how to design, build, and deploy AI-driven systems that can process data, interact with humans, and perform complex tasks autonomously.
 
 This course is being delivered in person at American University of Mongolia for the Fall 2024 semester.
@@ -15,23 +15,23 @@ The ideal student for the course is someone with Python experience who is intere
 
 ## Topic Outline
 
-| Week #  | Topic                                                                                                              |     |
-| ------- | ------------------------------------------------------------------------------------------------------------------ | --- |
-| Week 01 | [1] [[Introduction to Large Language Models]]<br>[2] Your First LLM Project<br>[3] Counting Tokens and Rate Limits |     |
-| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                              |     |
-| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                |     |
-| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                     |     |
-| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                           |     |
-| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                    |     |
-| Week 07 | [13] Building a Streamlit Chat App                                                                                 |     |
-| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                 |     |
-| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                    |     |
-| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                     |     |
-| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                   |     |
-| Week 12 | [21] Project 3: Build an Agent System                                                                              |     |
-| Week 13 | [22] Example Project: Research Assistant                                                                           |     |
-| Week 14 | [23] Example Project: Identifying Bias in News                                                                     |     |
-| Week 15 | Final Project Presentations (in person course only)                                                                |     |
+| Week #  | Topic                                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| Week 01 | [1] [[Introduction to Large Language Models]]<br>[2] Your First LLM Project<br>[3] Counting Tokens and Rate Limits |
+| Week 02 | [4] Working with Multi-Modal LLMs<br>[5] Structured Outputs from LLMs                                              |
+| Week 03 | [6] Evaluating LLMs on a Task<br>[7] Getting Text from the Internet                                                |
+| Week 04 | [8] Project 1: Extracting and Classifying Data                                                                     |
+| Week 05 | [9] Creating Embeddings<br>[10] Using a Vector Databases                                                           |
+| Week 06 | [11] Managing Documents<br>[12] Stuffing, Map Reduce, Reranking                                                    |
+| Week 07 | [13] Building a Streamlit Chat App                                                                                 |
+| Week 08 | [14] Project 2: Build a RAG Based Chat Application                                                                 |
+| Week 09 | [15] Introduction to Agents<br>[16] Build a Simple Agent System                                                    |
+| Week 10 | [17] Building Agents with CrewAI<br>[18] Hierarchichal vs Sequential Processes                                     |
+| Week 11 | [19] Allowing Agents to Execute Code<br>[20] Giving Agents Tools                                                   |
+| Week 12 | [21] Project 3: Build an Agent System                                                                              |
+| Week 13 | [22] Example Project: Research Assistant                                                                           |
+| Week 14 | [23] Example Project: Identifying Bias in News                                                                     |
+| Week 15 | Final Project Presentations (in person course only)                                                                |
 
 ## Coding Environment
 
