@@ -1,5 +1,5 @@
 # Building LLM Powered Systems
-Welcome to the “Building LLM Powered Systems” course! This course is designed to provide hands-on experience in creating robust systems powered by Large Language Models (LLMs). Throughout this course, you will learn how to design, build, and deploy AI-driven systems that can process data, interact with humans, and perform complex tasks autonomously.
+Welcome to the “Building LLM Powered Systems” course! This course is designed to provide hands-on experience in creating robust systems powered by Google's Gemini Large Language Model (LLM). Throughout this course, you will learn how to design, build, and deploy AI-driven systems that can process data, interact with humans, and perform complex tasks autonomously.
 
 This course is being delivered in person at American University of Mongolia for the Fall 2024 semester.
 
@@ -50,7 +50,7 @@ I allow two free absences throughout the semester that will not count against yo
 Weekly coding assignments will build you step by step towards the projects, and you should be able to reuse significant parts of this code for your projects. All assignments must be turned in on Moodle.
 
 ### Projects
-There are three projects for this course, each covering a different and very relevant subject in building LLM powered systems. All projects must be completely independently 
+There are three projects for this course, each covering a different and very relevant subject in building LLM powered systems. All projects must be completely independently and turned in via Moodle. 
 
 ## Coding Environment
 
@@ -58,14 +58,16 @@ This course will use Google's Gemini 1.5 Pro and Flash models, which offer a gen
 
 Other models can be used if you prefer, but no guidance will be given on how to integrate these models with the course code.
 
-To run the code in this course you will need the following packages. This package list may be amended or edited throughout the semester. Please note these packages have a significant number of dependencies that we will also be using including `numpy` and others.
+To run the code in this course you will need the packages below. This package list may be amended or edited throughout the semester. Please note these packages have a significant number of dependencies that we will also be using including `numpy` and others.
 
 ``` requirements.txt
 google-generativeai==0.7.2
 crewai==0.51.1
 ```
 
-It is strongly recommended that you create a Python environment for this course via `venv` or `conda`.
+Course code will work with the package versions provided. These packages are changing quickly, so be prepared to make updates to the code if you want to use newer package versions.
+
+Basic Python proficiency is expected for this course as well as familiarity writing code in your own IDE or text editor. It is strongly recommended that you create a Python environment for this course via `venv` or `conda`.
 
 You can choose any IDE or text editor you prefer, but I recommend the following:
 - [Visual Studio Code](https://code.visualstudio.com/): This is developed by Microsoft and is completely free. It also has excellent support for Jupyter notebooks via plugins.
