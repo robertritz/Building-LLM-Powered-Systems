@@ -155,4 +155,4 @@ while True:
 ## Congratulations
 That's it, you built your first Python program that interacts with an LLM! Most of the complexity of these deep neural networks has been abstracted away with powerful libraries. This allows us to build great things with very little effort.
 
-**Next Section: [Counting Tokens and Rate Limits](Counting%20Tokens%20and%20Rate%20Limits.md)**
+**Next Section: [Counting Tokens and Rate Limits](../03_counting_tokens/Counting%20Tokens%20and%20Rate%20Limits.md)**

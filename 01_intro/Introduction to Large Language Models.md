@@ -95,7 +95,7 @@ One of the most significant challenges with LLMs is their lack of explainability
 
 - **March 2023**: OpenAI released *GPT-4*, a more advanced and versatile model than its predecessors, with improvements in understanding and generating text across various contexts[^5].
 
-**Next Section: [Your First LLM Project](Your%20First%20LLM%20Project.md)**
+**Next Section: [Your First LLM Project](../02_first_llm_project/Your%20First%20LLM%20Project.md)**
 
 
 [^1]: https://pile.eleuther.ai
